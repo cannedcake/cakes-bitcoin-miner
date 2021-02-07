@@ -1,1 +1,2 @@
 To start mining simply double click "cake's Miner"
+and yes I know the "example blockchain" file is fake
